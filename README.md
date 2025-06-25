@@ -1,5 +1,5 @@
 
-![Banner Image](https://imgur.com/a/QtuBWBj)
+![Banner Image](https://i.imgur.com/sk8B7k8.png)
 
 ## About Me 🚀
 

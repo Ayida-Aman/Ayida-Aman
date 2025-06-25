@@ -1,5 +1,5 @@
 
-![Banner Image]([https://drive.google.com/file/d/1U10lcKy-NL7LzEv1hq2dwkbgl1nuS7iN/view?usp=sharing](https://imgur.com/a/QtuBWBj))
+![Banner Image](https://imgur.com/a/QtuBWBj)
 
 ## About Me 🚀
 
@@ -24,7 +24,7 @@ I'm a passionate **Frontend Web Developer** with experience in React. I love tac
 
 ## Community 👨‍👩‍👧‍👦
 
-- **[Telegram Community]**(https://t.me/aydus_journal)
-- **[Blue Nile DSA Community]**(https://t.me/BlueNileDSA_Community)
+- [Telegram Community](https://t.me/aydus_journal)
+- [Blue Nile DSA Community](https://t.me/BlueNileDSA_Community)
 
 

@@ -24,7 +24,8 @@ I'm a passionate **Frontend Web Developer** with experience in React. I love tac
 
 ## Community 👨‍👩‍👧‍👦
 
-- [Telegram Community](https://t.me/aydus_journal)
-- [Blue Nile DSA Community](https://t.me/BlueNileDSA_Community)
+- [Google Women Tech-Makers Ethiopia](https://t.me/Womentechmakersethiopia) :- **Event Organiser**
+- [Ninja Girl](https://t.me/aydus_journal) :- **Owner**
+- [Blue Nile DSA Community](https://t.me/BlueNileDSA_Community) :- **Co-Founder**
 
 

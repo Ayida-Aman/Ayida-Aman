@@ -1,6 +1,5 @@
-# Hi there, I'm Ayida! 👋
 
-![Banner Image](https://drive.google.com/file/d/1U10lcKy-NL7LzEv1hq2dwkbgl1nuS7iN/view?usp=sharing)
+![Banner Image]([https://drive.google.com/file/d/1U10lcKy-NL7LzEv1hq2dwkbgl1nuS7iN/view?usp=sharing](https://imgur.com/a/QtuBWBj))
 
 ## About Me 🚀
 
@@ -23,7 +22,7 @@ I'm a passionate **Frontend Web Developer** with experience in React. I love tac
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 
-## Community 📬
+## Community 👨‍👩‍👧‍👦
 
 - **[Telegram Community]**(https://t.me/aydus_journal)
 - **[Blue Nile DSA Community]**(https://t.me/BlueNileDSA_Community)
